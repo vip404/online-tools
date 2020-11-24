@@ -10,3 +10,6 @@
 [draw9png](http://romannurik.github.io/AndroidAssetStudio/nine-patches.html#source.type=image&sourceDensity=240&name=18_1)
 
 [圆角裁剪](http://www.pcccp.cn/yj/)
+
+
+[RGB与16进制转化](https://www.sioe.cn/yingyong/yanse-rgb-16/)
